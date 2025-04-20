@@ -7,6 +7,7 @@ This project demonstrates how to deploy a simple Spring Boot REST API on **AWS E
 - **URL**: http://demoebs-env-1.eba-mmd6tvxn.ap-south-1.elasticbeanstalk.com/message
 - **Response**: `"Hello from Elastic Bean Stalk"`
 - **Demo Image**: https://github.com/2023ayush/EBS_Deployment/blob/5d6a1923574076be36b7983e25c91892eb80d1ae/Ebs_deployment_ss.PNG
+- ![Elastic Beanstalk Screenshot](https://github.com/2023ayush/EBS_Deployment/blob/5d6a1923574076be36b7983e25c91892eb80d1ae/Ebs_deployment_ss.PNG?raw=true)
 
 ## 📦 Tech Stack
 
